@@ -72,7 +72,6 @@ python Personal_Expense_Tracker_Project.py
 🔹 Data visualization using Matplotlib
 🔹 Export expenses to CSV
 🔹 Monthly & category-wise summaries
-🔹 GUI version using Tkinter / Streamlit
 
 ---
 
@@ -86,5 +85,3 @@ Mohit Sharma
 ### ⭐ Support
 
 If you like this project, don’t forget to ⭐ star the repository — it motivates me to build more projects 🚀
-```bash
-jupyter notebook
