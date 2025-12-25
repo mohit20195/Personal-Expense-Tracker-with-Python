@@ -69,16 +69,16 @@ python Personal_Expense_Tracker_Project.py
 ---
 
 ### 🚀 Future Enhancements
-🔹 Data visualization using Matplotlib
-🔹 Export expenses to CSV
-🔹 Monthly & category-wise summaries
+- 🔹 Data visualization using Matplotlib
+- 🔹 Export expenses to CSV
+- 🔹 Monthly & category-wise summaries
 
 ---
 
 ### 👨‍💻 Author
 Mohit Sharma
-📊 Finance Professional transitioning into Data Analytics
-🧠 Skills: Python | SQL | Tableau | Power BI
+- 📊 Finance Professional transitioning into Data Analytics
+- 🧠 Skills: Python | SQL | Tableau | Power BI | AWS Glue
 
 ---
 
