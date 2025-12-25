@@ -60,11 +60,11 @@ python Personal_Expense_Tracker_Project.py
 
 ### 💡 Key Learning Outcomes
 
-✔ Python functions & modular coding
-✔ Dictionary & list data structures
-✔ File handling (save/load data)
-✔ User input validation
-✔ Real-world problem solving
+- ✔ Python functions & modular coding
+- ✔ Dictionary & list data structures
+- ✔ File handling (save/load data)
+- ✔ User input validation
+- ✔ Real-world problem solving
 
 ---
 
