@@ -1,4 +1,4 @@
-# 📊 Personal Expense Tracker (Python Project)
+# 📊 Personal Expense Tracker (Python) 
 
 🔹 A **command-line based Personal Expense Tracker** built using **Python** to help users record, manage, and analyze daily expenses efficiently.
 
